@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         //Employee employee1 = new Employee("AAA", 32);
         //clearEmployee employee2 = new Employee("BBB", 45);
-        //System.out.println(employee1.hashCode());
+        //System.out.println(employee1.hashCode());2
         //System.out.println(employee2.hashCode());
 
         Hashmap<String, String> hashMap = new Hashmap<>(4);
