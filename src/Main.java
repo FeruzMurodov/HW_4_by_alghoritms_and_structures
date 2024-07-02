@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Employee employee1 = new Employee("AAA", 32);
-        Employee employee2 = new Employee("BBB", 45);
+        //Employee employee1 = new Employee("AAA", 32);
+        //clearEmployee employee2 = new Employee("BBB", 45);
         //System.out.println(employee1.hashCode());
         //System.out.println(employee2.hashCode());
 
